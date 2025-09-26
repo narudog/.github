@@ -1,12 +1,8 @@
-## Hi there 👋
+# My Service
 
-<!--
+- Web [https://traveling.narudog.com/]
+- App [https://play.google.com/store/apps/details?id=com.narudog.traveling_dog_app]
 
-**Here are some ideas to get you started:**
+## 사업 제안서
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [traveling_business_plan.docx](https://github.com/user-attachments/files/22553546/traveling_business_plan.docx)
