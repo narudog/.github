@@ -5,5 +5,4 @@
 
 ## 사업 제안서
 
-- [traveling_business_plan.docx](https://github.com/user-attachments/files/22899194/traveling_business_plan.docx)
-
+- [예비창업패키지_사업계획서.docx](https://github.com/user-attachments/files/22942013/_.docx)
